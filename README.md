@@ -1,2 +1,2 @@
 # Projeto_c
-Projeto de estudos, html
+Projeto de estudos, git 
