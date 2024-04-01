@@ -4,3 +4,10 @@ Projeto de estudos, git
 *chckout, home, catalogo*
 ##### melhorias
 **melhoria 1 e 2**
+
+### linguagens do projeto
+
+*HTML
+*CSS
+*PHP
+*MySql
