@@ -21,3 +21,8 @@ Projeto de estudos, git
 
 2. Integração com outro
 3. Sistema de bõnus primeira compra
+
+
+#### imagem local 
+
+![Lofgo do Python](img/image.png)
