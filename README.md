@@ -32,3 +32,11 @@ Projeto de estudos, git
 
 #### LINK:
 [google](https://www.google.com.br/maps/preview)
+
+## Código func soma
+
+```javascript
+function soma(a,b) {
+    return a + b;
+}
+```
