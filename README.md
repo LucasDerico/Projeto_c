@@ -40,3 +40,9 @@ function soma(a,b) {
     return a + b;
 }
 ```
+
+## LIsta tarefas  
+- [x] membros
+- [x] integração
+- [] sistema de bonus
+- [x] CSS do rodapé
